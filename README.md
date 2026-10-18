@@ -59,8 +59,8 @@ Phishing-Detector/
 **Requirements:** Python 3.8 or newer. No external packages are needed.
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/abhidash26/Phishing-Detector.git
+cd Phishing-Detector
 python Python_Project.py
 ```
 
@@ -88,8 +88,6 @@ The rules were checked against a labelled set of safe and suspicious URLs.
 | `paypa1.com/verify` | Suspicious |
 | `http://192.168.0.1/login` | Dangerous |
 | `https://free-gifts.bit.ly` | Dangerous |
-
-> Add your own test cases to this table before submission.
 
 ---
 
